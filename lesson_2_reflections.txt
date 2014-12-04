@@ -12,6 +12,9 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	only add the right files for a single commit and not all the files that
+	have changed since the last commit
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
