@@ -39,4 +39,9 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Using a branch allow you to split off and work on a problem without
+    disrupting the main branch while you are working. This would be useful
+    when working on anything that is a bit tricky that might require much
+    time and commits and changes and colloboration. When all is well you 
+    can issue a pull request to have the whole body of work of the branch
+    reviewed
