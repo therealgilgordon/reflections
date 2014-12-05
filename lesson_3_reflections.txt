@@ -24,7 +24,8 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    This allows you to work offline more while still having the latest
+    remote code at the ready.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
